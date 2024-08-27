@@ -6,7 +6,7 @@ A web application for creating and answering quizzes.
 1. Clone this repository:
     git clone 
 
-# FEATURES
+## Features
 - Create custom quizzes
 - Answer community-made quizzes
 - Track your progress
