@@ -4,7 +4,7 @@ A web application for creating and answering quizzes.
 
 ## Installation
 1. Clone this repository:
-    git clone 
+    git clone https://github.com/Shubham4673/SIMPLE-QUIZ.git
 
 ## Features
 - Create custom quizzes
